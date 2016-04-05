@@ -1,4 +1,4 @@
-# PGP
+# PGP Copy-Paste Below
 -----BEGIN PGP PUBLIC KEY BLOCK-----  
 Version: GnuPG v1
 
