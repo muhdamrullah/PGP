@@ -1,5 +1,6 @@
 # PGP
 -----BEGIN PGP PUBLIC KEY BLOCK-----
+
 Version: GnuPG v1
 
 mQINBFcD7EgBEADKf58Yw1fpfOqzWyOC0SorYWMvvpCV8NMq6PQHNgcBX1cip2Zj
